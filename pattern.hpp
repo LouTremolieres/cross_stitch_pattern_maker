@@ -13,8 +13,8 @@ public:
     int gridHeight = 170;
     int gridWidth;
     int square_size;
-    int nbUsedColors = 64;
-    int nbSymbols = 62; // This does not include the symbols B and W, which is why the actual number of symbols is equal to nbSymbols+2
+    int nbUsedColors = 66;
+    int nbSymbols = 64; // This does not include the symbols B and W, which is why the actual number of symbols is equal to nbSymbols+2
     int symbolSize = 16;
     int captionWidth = 1000;
 
