@@ -1,0 +1,7 @@
+0b4132e335166f02210e28bade3c3d89  usr/include/raylib.h
+1867a66df4efbea1b4b658245a76818b  usr/include/raymath.h
+5fe1b9db11d23e62eb79e12ac39ddf53  usr/include/rlgl.h
+ffb91f540455c4eef141bcae73460817  usr/lib/cmake/raylib/raylib-config-version.cmake
+126a550a918cb81654fe0d17de442903  usr/lib/cmake/raylib/raylib-config.cmake
+7afff28af6eae98463dae7db3b008699  usr/lib/libraylib.a
+54de4bfdef46569bf9f8883b01957067  usr/lib/pkgconfig/raylib.pc

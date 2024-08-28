@@ -1,0 +1,3 @@
+C:/Users/loutr/OneDrive/Desktop/code point de croix/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Users/loutr/OneDrive/Desktop/code point de croix/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/loutr/OneDrive/Desktop/code point de croix/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir

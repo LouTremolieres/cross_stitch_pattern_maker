@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\triangulation.dir/objects.a
+C:\ProgramData\mingw64\mingw64\bin\ar.exe qc CMakeFiles\triangulation.dir/objects.a @CMakeFiles\triangulation.dir\objects1.rsp
+C:\ProgramData\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\triangulation.dir/objects.a -Wl,--no-whole-archive -o triangulation.exe -Wl,--out-implib,libtriangulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\triangulation.dir\linkLibs.rsp

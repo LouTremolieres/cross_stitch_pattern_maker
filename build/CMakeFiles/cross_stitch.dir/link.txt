@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cross_stitch.dir/objects.a
+C:\ProgramData\mingw64\mingw64\bin\ar.exe qc CMakeFiles\cross_stitch.dir/objects.a @CMakeFiles\cross_stitch.dir\objects1.rsp
+C:\ProgramData\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cross_stitch.dir/objects.a -Wl,--no-whole-archive -o cross_stitch.exe -Wl,--out-implib,libcross_stitch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cross_stitch.dir\linkLibs.rsp
